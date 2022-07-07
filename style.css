@@ -1,0 +1,64 @@
+body{
+  background: rgb(242,244,243);
+  color: rgb(94,80,63);
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  color: rgb(73,17,28);
+  font-size: 40px;
+}
+h2 {
+  font-family: 'Montserrat', sans-serifCourier;
+  color: rgb(169,146,125);
+  font-size: 25px;
+}
+a {
+  text-decoration: none;
+  color: rgb(94,80,63);
+}
+a:hover {
+  text-decoration: none;
+  color: rgb(169,146,125);
+}
+
+#banner {
+  border-radius: 10%;
+  border: 1px, solid, rgb(73,17,28);
+  padding: 5px;
+  margin: 5px;
+  background-image: src= url(https://de.wikipedia.org/wiki/Suntory_Hall#/media/Datei:Suntory_hall_-_inside_-_August_2014.jpg);
+  background-size: cover;
+  text-align: center;
+}
+
+.card-image {
+  height: 80px;
+  width: 80px;
+}
+
+#banner p {
+  opacity: 0.8;
+}
+
+.card {
+  text-align: center;
+  padding: 50px;
+  margin: 20px;
+}
+
+#footer {
+  background: rgb(73,17,28);
+}
+
+#footer p {
+  color: rgb(242,244,243);
+  padding: 15px;
+  margin: 15px;
+}
+
+#footer a {
+  color: rgb(242,244,243);
+}
